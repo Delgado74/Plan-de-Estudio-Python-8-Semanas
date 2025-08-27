@@ -6,7 +6,7 @@ Aquí encontrarás **enlaces, libros, ejercicios y comunidades** para avanzar pa
 ---
 
 ## 📅 Plan de Estudio
-👉 Revisa el archivo [`plan_estudio_python.md`](plan_estudio_python.md) para ver el plan de 8 semanas con proyectos.
+👉 Revisa el archivo [`plan_estudio_python.md`](Proyectos/actividades.md) para ver el plan de 8 semanas con proyectos.
 
 ---
 
